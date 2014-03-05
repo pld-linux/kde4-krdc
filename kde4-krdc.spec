@@ -8,12 +8,12 @@
 Summary:	Virtual Desktops
 Summary(pl.UTF-8):	Wirtualne biurka
 Name:		kde4-krdc
-Version:	4.12.0
+Version:	4.12.3
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	2d72f49674393d5b4b74bd4a94934cfd
+# Source0-md5:	923c863e28fb5c85b2b3b4b791f0a1a8
 URL:		http://www.kde.org/
 BuildRequires:	Qt3Support-devel >= %{qtver}
 BuildRequires:	QtOpenGL-devel >= %{qtver}
