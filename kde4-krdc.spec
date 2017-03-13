@@ -9,7 +9,7 @@ Summary:	Virtual Desktops
 Summary(pl.UTF-8):	Wirtualne biurka
 Name:		kde4-krdc
 Version:	4.14.3
-Release:	2
+Release:	3
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
@@ -47,7 +47,6 @@ BuildRequires:	libxml2-progs
 BuildRequires:	libxslt-devel >= 1.0.7
 BuildRequires:	meanwhile-devel >= 1.0.1
 BuildRequires:	mediastreamer-devel >= 2.3.0
-BuildRequires:	msilbc-devel >= 2.0.1
 BuildRequires:	openssl-devel >= 0.9.7d
 BuildRequires:	ortp-devel >= 0.16.1-3
 BuildRequires:	pcre-devel
